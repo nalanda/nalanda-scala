@@ -1,1 +1,1 @@
-# numercial-scala
+# nalanda-scala
