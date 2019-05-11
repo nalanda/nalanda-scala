@@ -1,10 +1,1 @@
-[0m[[0minfo[0m] [0mRunning edu.bharti.test.test [0m
-[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
-[0m[[0mdebug[0m] [0m  Classpath:[0m
-[0m[[0mdebug[0m] [0m	/media/lily/Elements1/Mygitproject/numericalproj/numercial-scala/target/scala-2.11/classes[0m
-[0m[[0mdebug[0m] [0m	/home/lily/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.10/scala-library-2.11.10.jar[0m
-[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
-[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
-[0m[[0mdebug[0m] [0mExited with code 0[0m
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: List()[0m
