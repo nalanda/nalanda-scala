@@ -9,3 +9,11 @@ run
 reload
 compile
 run
+compile
+run
+reload
+compile
+run
+exit
+compile
+run
