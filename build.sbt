@@ -53,8 +53,8 @@ libraryDependencies ++= Seq(sparkCore
 )
 resolvers += "Sonatype Releases" at "https://oss.sonatype.org/content/repositories/releases/"
 resolvers += "Sonatype Snapshots" at "http://oss.sonatype.org/content/repositories/snapshots"
-fork in run := true
-fork in test := true
+//fork in run := true
+//fork in test := true
 
 
 
